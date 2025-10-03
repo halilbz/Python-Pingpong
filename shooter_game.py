@@ -4,7 +4,7 @@ from random import randint
 #hafta5
 from time import time as timer
 #hafta5
-
+#Selamlar burayı github ile değiştirdim
 
 mixer.init()
 mixer.music.load("space.ogg")
